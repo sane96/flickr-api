@@ -1,0 +1,1428 @@
+Started GET "/" for 127.0.0.1 at 2022-04-01 08:52:21 +0200
+  [1m[35m (4.4ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/vdanilo/.rbenv/versions/3.0.3/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/vdanilo/.rbenv/versions/3.0.3/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 11.0ms | Allocations: 828)
+Completed 200 OK in 39ms (Views: 21.0ms | ActiveRecord: 0.0ms | Allocations: 7603)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:18:54 +0200
+  [1m[35m (2.8ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 32ms (ActiveRecord: 0.0ms | Allocations: 3643)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:18:54 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms | Allocations: 973)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:18:54 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms | Allocations: 851)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:18:54 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 3ms (ActiveRecord: 0.0ms | Allocations: 839)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:18:54 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 4ms (ActiveRecord: 0.0ms | Allocations: 848)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:18:54 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 3ms (ActiveRecord: 0.0ms | Allocations: 860)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:18:54 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms | Allocations: 872)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:18:55 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms | Allocations: 851)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:18:55 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms | Allocations: 860)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:18:55 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms | Allocations: 836)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:18:55 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms | Allocations: 851)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:18:55 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms | Allocations: 857)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:18:55 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms | Allocations: 848)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:18:55 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms | Allocations: 848)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:18:55 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 3ms (ActiveRecord: 0.0ms | Allocations: 863)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:18:55 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms | Allocations: 836)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:18:55 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 3ms (ActiveRecord: 0.0ms | Allocations: 854)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:18:55 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms | Allocations: 866)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:18:55 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 3ms (ActiveRecord: 0.0ms | Allocations: 860)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:18:55 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms | Allocations: 860)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:18:56 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms | Allocations: 843)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:18:56 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms | Allocations: 884)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:18:56 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms | Allocations: 839)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:18:57 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms | Allocations: 857)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:18:57 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms | Allocations: 851)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:18:57 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 3ms (ActiveRecord: 0.0ms | Allocations: 860)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:18:57 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms | Allocations: 872)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:18:57 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms | Allocations: 842)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:18:57 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 3ms (ActiveRecord: 0.0ms | Allocations: 860)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:18:57 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 3ms (ActiveRecord: 0.0ms | Allocations: 866)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:18:57 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 3ms (ActiveRecord: 0.0ms | Allocations: 860)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:18:57 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms | Allocations: 854)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:18:57 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 3ms (ActiveRecord: 0.0ms | Allocations: 842)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:18:57 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 3ms (ActiveRecord: 0.0ms | Allocations: 845)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:18:57 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 3ms (ActiveRecord: 0.0ms | Allocations: 860)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:18:57 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 3ms (ActiveRecord: 0.0ms | Allocations: 869)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:18:57 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 4ms (ActiveRecord: 0.0ms | Allocations: 863)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:18:57 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 5ms (ActiveRecord: 0.0ms | Allocations: 854)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:18:57 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 3ms (ActiveRecord: 0.0ms | Allocations: 872)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:18:57 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 3ms (ActiveRecord: 0.0ms | Allocations: 872)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:19:00 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 3ms (ActiveRecord: 0.0ms | Allocations: 870)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:19:00 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms | Allocations: 848)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:19:00 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms | Allocations: 866)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:19:00 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms | Allocations: 833)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:19:00 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms | Allocations: 881)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:19:00 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms | Allocations: 869)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:19:00 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms | Allocations: 863)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:19:00 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 14ms (ActiveRecord: 0.0ms | Allocations: 851)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:19:00 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 3ms (ActiveRecord: 0.0ms | Allocations: 866)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:19:00 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms | Allocations: 848)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:19:00 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 3ms (ActiveRecord: 0.0ms | Allocations: 851)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:19:00 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 3ms (ActiveRecord: 0.0ms | Allocations: 875)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:19:00 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms | Allocations: 851)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:19:00 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms | Allocations: 842)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:19:00 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 3ms (ActiveRecord: 0.0ms | Allocations: 872)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:19:00 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms | Allocations: 848)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:19:00 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 3ms (ActiveRecord: 0.0ms | Allocations: 863)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:19:00 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms | Allocations: 875)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:19:01 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 3ms (ActiveRecord: 0.0ms | Allocations: 854)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:19:01 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 3ms (ActiveRecord: 0.0ms | Allocations: 857)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:19:42 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms | Allocations: 571)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:19:43 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms | Allocations: 680)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:19:43 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms | Allocations: 705)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:19:43 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms | Allocations: 684)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:19:43 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms | Allocations: 690)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:19:43 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms | Allocations: 693)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:19:43 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms | Allocations: 681)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:19:43 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms | Allocations: 678)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:19:43 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms | Allocations: 708)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:19:43 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms | Allocations: 696)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:19:43 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms | Allocations: 702)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:19:43 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms | Allocations: 714)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:19:43 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms | Allocations: 699)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:19:44 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms | Allocations: 687)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:19:44 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms | Allocations: 693)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:19:44 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms | Allocations: 678)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:19:44 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 3ms (ActiveRecord: 0.0ms | Allocations: 696)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:19:44 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms | Allocations: 672)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:19:44 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms | Allocations: 702)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:19:44 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms | Allocations: 705)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:19:45 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 5ms (ActiveRecord: 0.0ms | Allocations: 689)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:19:45 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms | Allocations: 708)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:19:45 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms | Allocations: 690)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:19:45 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms | Allocations: 687)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:19:45 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 3ms (ActiveRecord: 0.0ms | Allocations: 684)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:19:45 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms | Allocations: 687)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:19:45 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms | Allocations: 684)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:19:45 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms | Allocations: 675)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:19:45 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms | Allocations: 687)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:19:45 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms | Allocations: 687)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:19:46 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms | Allocations: 705)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:19:46 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms | Allocations: 690)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:19:46 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms | Allocations: 690)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:19:46 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms | Allocations: 693)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:19:46 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms | Allocations: 702)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:19:46 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms | Allocations: 687)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:19:46 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms | Allocations: 711)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:19:46 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms | Allocations: 684)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:19:46 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms | Allocations: 684)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:19:46 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (ActiveRecord: 0.0ms | Allocations: 672)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:24:45 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 12ms (Allocations: 789)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:24:45 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (Allocations: 707)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:24:45 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (Allocations: 701)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:24:45 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (Allocations: 683)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:24:45 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 3ms (Allocations: 680)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:24:45 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (Allocations: 689)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:24:45 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (Allocations: 677)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:24:45 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 4ms (Allocations: 683)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:24:45 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (Allocations: 713)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:24:45 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (Allocations: 701)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:24:46 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (Allocations: 704)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:24:46 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (Allocations: 686)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:24:46 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 3ms (Allocations: 689)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:24:46 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (Allocations: 692)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:24:46 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (Allocations: 695)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:24:46 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (Allocations: 680)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:24:46 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (Allocations: 701)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:24:46 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (Allocations: 710)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:24:46 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (Allocations: 701)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:24:46 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (Allocations: 689)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:24:47 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (Allocations: 692)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:24:47 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (Allocations: 716)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:24:47 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (Allocations: 719)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:24:47 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (Allocations: 689)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:24:47 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (Allocations: 671)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:24:47 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (Allocations: 698)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:24:48 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (Allocations: 674)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:24:48 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 3ms (Allocations: 677)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:24:48 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (Allocations: 710)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:24:48 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 3ms (Allocations: 698)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:24:48 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (Allocations: 689)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:24:48 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (Allocations: 707)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:24:48 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (Allocations: 698)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:24:48 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 3ms (Allocations: 683)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:24:48 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (Allocations: 668)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:24:48 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (Allocations: 701)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:24:48 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 4ms (Allocations: 707)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:24:48 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (Allocations: 677)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:24:48 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (Allocations: 710)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:24:48 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (Allocations: 716)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:24:53 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 3ms (Allocations: 705)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:24:54 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (Allocations: 692)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:24:54 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 3ms (Allocations: 689)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:24:54 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (Allocations: 698)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:24:54 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (Allocations: 695)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:24:54 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (Allocations: 707)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:24:54 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (Allocations: 713)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:24:54 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (Allocations: 698)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:24:54 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (Allocations: 686)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:24:54 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (Allocations: 692)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:24:54 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 3ms (Allocations: 695)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:24:54 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (Allocations: 680)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:24:54 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (Allocations: 698)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:24:54 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (Allocations: 704)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:24:54 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (Allocations: 707)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:24:54 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (Allocations: 689)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:24:54 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (Allocations: 698)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:24:54 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (Allocations: 686)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:24:54 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (Allocations: 686)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:24:54 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (Allocations: 701)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:25:25 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (Allocations: 694)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:25:25 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (Allocations: 695)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:25:25 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (Allocations: 707)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:25:25 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (Allocations: 689)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:25:25 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (Allocations: 692)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:25:25 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 3ms (Allocations: 710)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:25:25 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (Allocations: 698)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:25:25 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (Allocations: 698)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:25:25 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (Allocations: 707)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:25:25 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (Allocations: 701)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:25:25 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (Allocations: 695)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:25:25 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (Allocations: 692)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:25:25 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (Allocations: 713)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:25:25 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (Allocations: 701)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:25:25 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 3ms (Allocations: 710)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:25:25 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (Allocations: 701)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:25:25 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (Allocations: 686)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:25:25 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (Allocations: 686)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:25:25 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (Allocations: 695)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:25:26 +0200
+Processing by StaticPageController#index as HTML
+Redirected to http://127.0.0.1:3000/
+Completed 302 Found in 2ms (Allocations: 686)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:26:26 +0200
+Processing by StaticPageController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering static_page/index.html.erb within layouts/application
+  Rendered static_page/_search_form.html.erb (Duration: 24.5ms | Allocations: 6031)
+  Rendered static_page/index.html.erb within layouts/application (Duration: 27.6ms | Allocations: 6921)
+  Rendered layout layouts/application.html.erb (Duration: 28.0ms | Allocations: 7016)
+Completed 500 Internal Server Error in 37ms (Allocations: 10197)
+
+
+  
+ActionView::Template::Error (wrong number of arguments (given 3, expected 1..2)):
+    3: 
+    4:   <div>
+    5:     <%= form.label :body %><br>
+    6:     <%= form.text_field :user_id, nil, placeholder: "Enter User ID"%>
+    7:     <% post.errors.full_messages_for(:body).each do |message| %>
+    8:       <div><%= message %></div>
+    9:     <% end %>
+  
+app/views/static_page/_search_form.html.erb:6
+app/views/static_page/_search_form.html.erb:2
+app/views/static_page/index.html.erb:4
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:28:03 +0200
+Processing by StaticPageController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering static_page/index.html.erb within layouts/application
+  Rendered static_page/index.html.erb within layouts/application (Duration: 2.9ms | Allocations: 1321)
+  Rendered layout layouts/application.html.erb (Duration: 3.5ms | Allocations: 1411)
+Completed 500 Internal Server Error in 10ms (Allocations: 2526)
+
+
+  
+ActionView::SyntaxErrorInTemplate (Encountered a syntax error while rendering template: check <h1>StaticPage</h1>
+
+
+      
+
+      
+
+    <% if params[:user_id].empty? %>
+    <%= render 'search_form' %>
+    <% else %>
+    <%= render 'search_form' %>
+      <div><%= params[:user_id] %> photos</div>
+    
+
+      <% @photos.each do |photo| %>
+
+          <img src="<%= Flickr.url_n(photo) %>"/>
+
+      <% end %>
+
+    <% end %>
+
+<% end %>
+
+
+
+):
+1:    <h1>StaticPage</h1>
+2:    
+3:    
+4:          
+5:    
+6:          
+7:    
+8:        <% if params[:user_id].empty? %>
+9:        <%= render 'search_form' %>
+10:        <% else %>
+11:        <%= render 'search_form' %>
+12:          <div><%= params[:user_id] %> photos</div>
+13:        
+14:    
+15:          <% @photos.each do |photo| %>
+16:    
+17:              <img src="<%= Flickr.url_n(photo) %>"/>
+18:    
+19:          <% end %>
+20:    
+21:        <% end %>
+22:    
+23:    <% end %>
+  
+app/views/static_page/index.html.erb:28: syntax error, unexpected `end', expecting end-of-input
+app/views/static_page/index.html.erb:28: syntax error, unexpected `end', expecting end-of-input
+app/views/static_page/index.html.erb:28: syntax error, unexpected `end', expecting end-of-input
+app/views/static_page/index.html.erb:28: syntax error, unexpected `end', expecting end-of-input
+app/views/static_page/index.html.erb:28: syntax error, unexpected `end', expecting end-of-input
+app/views/static_page/index.html.erb:28: syntax error, unexpected `end', expecting end-of-input
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:28:44 +0200
+Processing by StaticPageController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering static_page/index.html.erb within layouts/application
+  Rendered static_page/index.html.erb within layouts/application (Duration: 3.5ms | Allocations: 1310)
+  Rendered layout layouts/application.html.erb (Duration: 4.0ms | Allocations: 1400)
+Completed 500 Internal Server Error in 10ms (Allocations: 2503)
+
+
+  
+ActionView::SyntaxErrorInTemplate (Encountered a syntax error while rendering template: check <h1>StaticPage</h1>
+
+
+      
+
+      
+
+    <% if params[:user_id].empty? %>
+    <%= render 'search_form' %>
+    <% else %>
+    <%= render 'search_form' %>
+      <div><%= params[:user_id] %> photos</div>
+    
+
+      <% @photos.each do |photo| %>
+
+          <img src="<%= Flickr.url_n(photo) %>"/>
+
+      <% end %>
+
+    <% end %>
+
+  <% end %>
+
+
+
+):
+1:    <h1>StaticPage</h1>
+2:    
+3:    
+4:          
+5:    
+6:          
+7:    
+8:        <% if params[:user_id].empty? %>
+9:        <%= render 'search_form' %>
+10:        <% else %>
+11:        <%= render 'search_form' %>
+12:          <div><%= params[:user_id] %> photos</div>
+13:        
+14:    
+15:          <% @photos.each do |photo| %>
+16:    
+17:              <img src="<%= Flickr.url_n(photo) %>"/>
+18:    
+19:          <% end %>
+20:    
+21:        <% end %>
+22:    
+23:      <% end %>
+  
+app/views/static_page/index.html.erb:28: syntax error, unexpected `end', expecting end-of-input
+app/views/static_page/index.html.erb:28: syntax error, unexpected `end', expecting end-of-input
+app/views/static_page/index.html.erb:28: syntax error, unexpected `end', expecting end-of-input
+app/views/static_page/index.html.erb:28: syntax error, unexpected `end', expecting end-of-input
+app/views/static_page/index.html.erb:28: syntax error, unexpected `end', expecting end-of-input
+app/views/static_page/index.html.erb:28: syntax error, unexpected `end', expecting end-of-input
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:29:26 +0200
+Processing by StaticPageController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering static_page/index.html.erb within layouts/application
+  Rendered static_page/index.html.erb within layouts/application (Duration: 6.6ms | Allocations: 1788)
+  Rendered layout layouts/application.html.erb (Duration: 7.4ms | Allocations: 1877)
+Completed 500 Internal Server Error in 13ms (Allocations: 2986)
+
+
+  
+ActionView::Template::Error (undefined method `empty?' for nil:NilClass):
+     5: 
+     6:       
+     7: 
+     8:     <% if params[:user_id].empty? %>
+     9:       <%= render 'search_form' %>
+    10:     <% else %>
+    11:       <%= render 'search_form' %>
+  
+app/views/static_page/index.html.erb:8
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:29:47 +0200
+Processing by StaticPageController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering static_page/index.html.erb within layouts/application
+  Rendered static_page/_search_form.html.erb (Duration: 5.4ms | Allocations: 1962)
+  Rendered static_page/index.html.erb within layouts/application (Duration: 7.4ms | Allocations: 2362)
+  Rendered layout layouts/application.html.erb (Duration: 7.8ms | Allocations: 2450)
+Completed 500 Internal Server Error in 13ms (Allocations: 3550)
+
+
+  
+ActionView::Template::Error (wrong number of arguments (given 3, expected 1..2)):
+    3: 
+    4:   <div>
+    5:     <%= form.label :body %><br>
+    6:     <%= form.text_field :user_id, nil, placeholder: "Enter User ID"%>
+    7:     <% post.errors.full_messages_for(:body).each do |message| %>
+    8:       <div><%= message %></div>
+    9:     <% end %>
+  
+app/views/static_page/_search_form.html.erb:6
+app/views/static_page/_search_form.html.erb:2
+app/views/static_page/index.html.erb:9
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:30:21 +0200
+Processing by StaticPageController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering static_page/index.html.erb within layouts/application
+  Rendered static_page/_search_form.html.erb (Duration: 46.7ms | Allocations: 11667)
+  Rendered static_page/index.html.erb within layouts/application (Duration: 50.1ms | Allocations: 12075)
+  Rendered layout layouts/application.html.erb (Duration: 50.5ms | Allocations: 12163)
+Completed 500 Internal Server Error in 57ms (Allocations: 13265)
+
+
+  
+ActionView::Template::Error (undefined local variable or method `post' for #<ActionView::Base:0x00000000014a28>):
+    4:   <div>
+    5:     <%= form.label :body %><br>
+    6:     <%= form.text_field :user_id, placeholder: "Enter User ID"%>
+    7:     <% post.errors.full_messages_for(:body).each do |message| %>
+    8:       <div><%= message %></div>
+    9:     <% end %>
+   10:   </div>
+  
+app/views/static_page/_search_form.html.erb:7
+app/views/static_page/_search_form.html.erb:2
+app/views/static_page/index.html.erb:9
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:30:35 +0200
+Processing by StaticPageController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering static_page/index.html.erb within layouts/application
+  Rendered static_page/_search_form.html.erb (Duration: 3.4ms | Allocations: 1564)
+  Rendered static_page/index.html.erb within layouts/application (Duration: 9.1ms | Allocations: 3224)
+  Rendered layout layouts/application.html.erb (Duration: 10.3ms | Allocations: 3312)
+Completed 500 Internal Server Error in 15ms (Allocations: 4412)
+
+
+  
+ActionView::Template::Error (undefined method `each' for nil:NilClass):
+    10:       <div><%= params[:user_id] %> photos</div>
+    11:     
+    12: 
+    13:       <% @photos.each do |photo| %>
+    14: 
+    15:           <img src="<%= Flickr.url_n(photo) %>"/>
+    16: 
+  
+app/views/static_page/index.html.erb:13
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:31:25 +0200
+Processing by StaticPageController#index as HTML
+Completed 500 Internal Server Error in 1ms (Allocations: 489)
+
+
+  
+Flickr::FlickrAppNotConfigured (No API key defined!):
+  
+app/controllers/static_page_controller.rb:5:in `new'
+app/controllers/static_page_controller.rb:5:in `index'
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:44:29 +0200
+  [1m[35m (1.4ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by StaticPageController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering static_page/index.html.erb within layouts/application
+  Rendered static_page/_search_form.html.erb (Duration: 13.9ms | Allocations: 3087)
+  Rendered static_page/index.html.erb within layouts/application (Duration: 22.6ms | Allocations: 5952)
+  Rendered layout layouts/application.html.erb (Duration: 27.5ms | Allocations: 6059)
+Completed 500 Internal Server Error in 326ms (ActiveRecord: 0.0ms | Allocations: 20733)
+
+
+  
+ActionView::Template::Error (undefined method `each' for nil:NilClass):
+    10:       <div><%= params[:user_id] %> photos</div>
+    11:     
+    12: 
+    13:       <% @photos.each do |photo| %>
+    14: 
+    15:           <img src="<%= Flickr.url_n(photo) %>"/>
+    16: 
+  
+app/views/static_page/index.html.erb:13
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:45:28 +0200
+Processing by StaticPageController#index as HTML
+Completed 500 Internal Server Error in 217ms (Allocations: 1684)
+
+
+  
+Flickr::FailedResponse ('flickr.photos.search' - Parameterless searches have been disabled. Please use flickr.photos.getRecent instead.):
+  
+app/controllers/static_page_controller.rb:7:in `index'
+Started GET "/" for 127.0.0.1 at 2022-04-01 09:46:25 +0200
+Processing by StaticPageController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering static_page/index.html.erb within layouts/application
+  Rendered static_page/_search_form.html.erb (Duration: 2.8ms | Allocations: 1292)
+  Rendered static_page/index.html.erb within layouts/application (Duration: 6.0ms | Allocations: 2493)
+  Rendered layout layouts/application.html.erb (Duration: 517.4ms | Allocations: 96454)
+Completed 200 OK in 995ms (Views: 520.7ms | Allocations: 130326)
+
+
+Started GET "/?user_id=195345051%40N06&commit=Show+photos" for 127.0.0.1 at 2022-04-01 09:46:58 +0200
+Processing by StaticPageController#index as HTML
+  Parameters: {"user_id"=>"195345051@N06", "commit"=>"Show photos"}
+  Rendering layout layouts/application.html.erb
+  Rendering static_page/index.html.erb within layouts/application
+  Rendered static_page/_search_form.html.erb (Duration: 2.0ms | Allocations: 1233)
+  Rendered static_page/index.html.erb within layouts/application (Duration: 2.5ms | Allocations: 1313)
+  Rendered layout layouts/application.html.erb (Duration: 9.2ms | Allocations: 3605)
+Completed 200 OK in 260ms (Views: 10.3ms | Allocations: 5228)
+
+
+Started GET "/?user_id=195345051%40N06&commit=Show+photos" for 127.0.0.1 at 2022-04-01 09:48:44 +0200
+Processing by StaticPageController#index as HTML
+  Parameters: {"user_id"=>"195345051@N06", "commit"=>"Show photos"}
+  Rendering layout layouts/application.html.erb
+  Rendering static_page/index.html.erb within layouts/application
+  Rendered static_page/_search_form.html.erb (Duration: 1.5ms | Allocations: 1231)
+  Rendered static_page/index.html.erb within layouts/application (Duration: 1.9ms | Allocations: 1322)
+  Rendered layout layouts/application.html.erb (Duration: 8.4ms | Allocations: 3605)
+Completed 200 OK in 265ms (Views: 9.6ms | Allocations: 5412)
+
+
+Started GET "/" for 127.0.0.1 at 2022-04-06 15:11:49 +0200
+  [1m[35m (1.8ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by StaticPageController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering static_page/index.html.erb within layouts/application
+  Rendered static_page/_search_form.html.erb (Duration: 9.9ms | Allocations: 3087)
+  Rendered static_page/index.html.erb within layouts/application (Duration: 16.2ms | Allocations: 4971)
+  Rendered layout layouts/application.html.erb (Duration: 173.1ms | Allocations: 39415)
+Completed 200 OK in 909ms (Views: 181.0ms | ActiveRecord: 0.0ms | Allocations: 87101)
+
+
+Started GET "/?user_id=195345051%40N06&commit=Show+photos" for 127.0.0.1 at 2022-04-06 15:12:03 +0200
+Processing by StaticPageController#index as HTML
+  Parameters: {"user_id"=>"195345051@N06", "commit"=>"Show photos"}
+  Rendering layout layouts/application.html.erb
+  Rendering static_page/index.html.erb within layouts/application
+  Rendered static_page/_search_form.html.erb (Duration: 2.1ms | Allocations: 1285)
+  Rendered static_page/index.html.erb within layouts/application (Duration: 2.5ms | Allocations: 1384)
+  Rendered layout layouts/application.html.erb (Duration: 16.1ms | Allocations: 3824)
+Completed 200 OK in 296ms (Views: 17.3ms | ActiveRecord: 0.0ms | Allocations: 5839)
+
+
